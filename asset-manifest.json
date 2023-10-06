@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-react1/static/css/main.dbeb78f5.css",
+    "main.js": "/portfolio-react1/static/js/main.e08adacd.js",
+    "static/media/porto2.png": "/portfolio-react1/static/media/porto2.75dc4bf88e82de949c86.png",
+    "static/media/porto3.png": "/portfolio-react1/static/media/porto3.cad618a21d2c2ae91831.png",
+    "static/media/porto4.png": "/portfolio-react1/static/media/porto4.5c088062abbed56d9bf5.png",
+    "static/media/boy1.png": "/portfolio-react1/static/media/boy1.99198cc684a80093a8a9.png",
+    "static/media/porto1.png": "/portfolio-react1/static/media/porto1.c36f0d72f01b749ad526.png",
+    "static/media/resume.pdf": "/portfolio-react1/static/media/resume.93177cae3507c31e74dc.pdf",
+    "static/media/thumbup.png": "/portfolio-react1/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/portfolio-react1/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio-react1/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolio-react1/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolio-react1/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portfolio-react1/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portfolio-react1/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolio-react1/index.html",
+    "main.dbeb78f5.css.map": "/portfolio-react1/static/css/main.dbeb78f5.css.map",
+    "main.e08adacd.js.map": "/portfolio-react1/static/js/main.e08adacd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbeb78f5.css",
+    "static/js/main.e08adacd.js"
+  ]
+}
